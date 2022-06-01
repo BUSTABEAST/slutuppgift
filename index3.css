@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(3, 1, 29);
+position: relative;
+}
+
+.box{
+border-style: solid;
+border-color: goldenrod;
+border-radius: 25px;
+width: 400px;
+height: 300px;
+
+}
+.img{
+border-radius: 25px;
+
+}
+
+.Smoke{
+
+color: white;
+font-size: 40px;
+}
+
+.Smoke2{
+
+color: white;   
+
+}
+
+.box2{
+    border-style: solid;
+    border-color: goldenrod;
+    border-radius: 25px;
+    width: 400px;
+    height: 300px;
+    margin-left: 650px;
+    position: relative;
+    top: -450px;
+}
+
+.img2{
+
+border-radius: 25px;
+
+}
+
+.Thermite{
+
+color: white;
+margin-left: 650px;
+font-size: 40px;
+position: relative;
+top: -450px;
+
+}
+
+.Thermite2{
+
+color: white;
+margin-left: 650px;
+position: relative;
+top: -448px;
+}

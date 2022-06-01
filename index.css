@@ -1,0 +1,63 @@
+body{
+  background-color: rgb(3, 1, 29);
+  position: relative;
+  }
+  
+  .box{
+  background-color: white;
+  width: 800px;
+  height: 100px;
+  position:relative;
+  margin-left: 550px;
+  border-style: solid;
+  border-color: goldenrod;
+  border-radius: 25px;
+  
+  }
+
+  .box1{
+    background-color: goldenrod;
+    width: 150px;
+    height: 80px;
+    margin-left: 550px;
+    border-radius: 25px;
+
+  }
+  p{
+    font-size: 50px;
+    text-align: center;
+  }
+
+ .box2{
+
+  background-color: goldenrod;
+width: 150px;
+height: 80px;
+margin-top: 270px;
+margin-left: 550px;
+border-radius: 25px;
+  }
+
+  .Text1{
+    color: white;
+    border-style: solid;
+    border-color: goldenrod;
+    border-radius: 25px;
+  }
+
+
+  .Text2{
+
+    color:white;
+    border-style: solid;
+    border-color: goldenrod;
+    border-radius: 25px;
+  }
+  a{
+    font-size: 50px;
+    text-decoration: none;
+    color: black;
+    position: relative;
+    left: 25px;
+    align-items: center;
+  }
